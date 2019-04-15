@@ -1,4 +1,4 @@
 
 "hello world"
 
-hello_world.methods
+hello_world.class
